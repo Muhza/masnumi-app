@@ -1,0 +1,14 @@
+Catatan Project Masnumi
+
+- modul wilayah = * perbaikan fitur edit    = finish
+				  *    ,,      ,,   delete	= finish
+
+- modul produk  = * menambahkan fitur upload file = finish 
+				  * perbaikan fitur edit = finish
+				  *    ,,       ,,  delete = finish
+				  * perbaikan form kondisi edit = finish
+
+- modul Auntikasi = * perbaikan fitur Registrasi
+					* perbaikan fitur Login 
+					* Perbaikan Tampilan Tabel User
+					* membedakan Akses Admin & user
